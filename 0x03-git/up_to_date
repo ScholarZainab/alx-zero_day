@@ -1,1 +1,11 @@
 git pull origin main
+Git Command Line Used for Updating README.md
+To update my README.md file with the latest changes from the main branch, I followed these steps:
+1. Ensure I am on the main branch: git checkout main
+2. Pull the latest changes from the remote main branch: git pull origin main
+3. Opened my README.md file in a text editor and made necessary updates.
+4. Saved the changes: git add .
+5. Commited the changes: git commit -m 'your commit message'.
+6. Optional: Push the changes to the remote repository: git push origin main
+These steps helped me keep my README.md file up-to-date with the latest changes in the main branch.
+git pull main
